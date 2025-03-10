@@ -20,13 +20,13 @@
 打開終端機，輸入以下指令來下載遊戲：
 
 ```
-git clone https://github.com/judylin0927/cat_story
+git clone https://github.com/judylin0927/cat-tale-v1-basic.git
 ```
 
 進入遊戲資料夾：
 
 ```
-cd cat_story
+cd cat-tale-v1-basic
 ```
 
 賦予執行權限並開始遊戲：
